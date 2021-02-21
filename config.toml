@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
+baseURL = "https://sejal-sanghvi.netlify.app/"
 title = "Sejal Sanghvi"
 theme = "persian"
 languageName = "En"
