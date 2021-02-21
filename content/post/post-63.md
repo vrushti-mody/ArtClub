@@ -12,4 +12,3 @@ draft: false
 
 I am absolutely in love with this wall!
 Tell me how do you feel looking about this Fine Art Piece.
-.
