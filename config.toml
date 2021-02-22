@@ -7,7 +7,7 @@ languageCode = "en-us"
 # post pagination
 paginate = "15"
 # disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+disqusShortname = "art-site-1" # get your shortname form here : https://disqus.com
 
 ############################# output ##############################
 [outputs]
@@ -68,7 +68,7 @@ author = "Themefisher"
 # search  
 search = true
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mnqoyyag" # contact form works with https://formspree.io
 # copyright
 copyright = "Designed & Developed By [Vrushti Mody](https://vrushti.netlify.app/)"
 
