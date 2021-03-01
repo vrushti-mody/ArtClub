@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://sejal-sanghvi.netlify.app/"
+baseURL = "https://sejal-sanghvi-art.netlify.app/"
 title = "Sejal Sanghvi"
 theme = "persian"
 languageName = "En"
@@ -70,7 +70,7 @@ search = true
 # contact form action
 contact_form_action = "https://formspree.io/f/mnqoyyag" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed & Developed By [Vrushti Mody](https://vrushti.netlify.app/)"
+copyright = "Designed & Developed By [Vidhi Mody](https://vidhi-mody.netlify.app/) and [Vrushti Mody](https://vrushti.netlify.app/)"
 
 # Preloader
 [params.preloader]
